@@ -21,5 +21,4 @@ Linee Guida per la Promozione dei Servizi Digitali
    :caption: Documento in consultazione
         
    doc/promozione-servizi-digitali
-   doc/analytics
    doc/glossario
