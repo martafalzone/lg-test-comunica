@@ -74,6 +74,6 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
    Coinvolgere dei media partner o degli influencer che ti supportino nella diffusione ampliandone la portata.
    
 .. discourse::
-   :topic_identifier: 3404
+   :topic_identifier: 3415 
    
 
