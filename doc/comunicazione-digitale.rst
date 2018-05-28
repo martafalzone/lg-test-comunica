@@ -29,7 +29,7 @@ Ricordati di:
 
 - trovare sempre un equilibrio tra uno stile di comunicazione che catturi l’attenzione del lettore e gli approfondimenti sulle             caratteristiche e delle funzionalità dei servizi.
 
-- prevedere conla "privacy policy" le  modalità di gestione del sito in riferimento al trattamento dei dati personali degli utenti         visitatori che lo consultano, di richiamarla nella tua "Social Media Policy" e di aggiungere (nella SMP) come verranno richiesti e       trattati i dati personali degli utenti che useranno i tuoi canali di promozione (ad es: iscritti alla newsletter, che usano Whatsapp e   Telegram).
+- prevedere con la " `privacy policy <https://comunica-lg.readthedocs.io/it/latest/doc/comunicazione-digitale.html#il-sito-web-istituzionale>`_" le  modalità di gestione del sito in riferimento al trattamento dei dati personali degli utenti         visitatori che lo consultano, di richiamarla nella tua "Social Media Policy" e di aggiungere (nella SMP) come verranno richiesti e       trattati i dati personali degli utenti che useranno i tuoi canali di promozione (ad es: iscritti alla newsletter, che usano Whatsapp e   Telegram).
 
 .. admonition:: DEVI
  
