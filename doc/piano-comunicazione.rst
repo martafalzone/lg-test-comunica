@@ -1,7 +1,7 @@
 Definisci il piano di comunicazione o le linee guida in breve
 -------------------------------------------------------------
 
-La Comunicazione è la leva strategica per la promozione dei servizi pubblici digitali. Utilizzala al meglio. Le attività di comunicazione hanno lo scopo di migliorare le abitudini dei cittadini attraverso l’informazione, il racconto e la sensibilizzazione sulle nuove possibilità offerte dal digitale. Il piano di comunicazione è lo strumento che ti permette di guidare tutte le azioni necessarie alla promozione dei servizi digitali offerti dalla tua amministrazione, sia nel breve che nel lungo periodo.
+Il piano di comunicazione è lo strumento che ti permette di guidare tutte le azioni necessarie alla promozione dei servizi digitali offerti dalla tua amministrazione, sia nel breve che nel lungo periodo.
 
 **In particolare, creare un piano di comunicazione ti consente di:**
 
@@ -101,7 +101,7 @@ A chi vuoi parlare? Analizza i destinatari della tua azione di comunicazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per promuovere al meglio un servizio digitale è fondamentale sapere a chi è indirizzato: devi individuare e conoscere nel dettaglio il tuo target per capire come raggiungerlo.
-Una volta messe a fuoco le personas, ossia i destinatari dei messaggi, cerca di segmentarli il più possibile e non trascurare le loro abitudini digitali e non.
+Una volta messe a fuoco le `personas <http://design-italia.readthedocs.io/it/stable/doc/service-design/gestione-dei-progetti.html#personas-e-profili-utente>`_, ossia i destinatari dei messaggi, cerca di segmentarli il più possibile e non trascurare le loro abitudini digitali e non.
 Se non hai dati e informazioni di dettaglio sulle caratteristiche e sul livello di digitalizzazione del tuo target, puoi utilizzare alcuni indicatori facilmente reperibili oppure mettere a punto dei questionari molto semplici da sottoporre all’utente. 
 
 .. admonition:: DEVI
