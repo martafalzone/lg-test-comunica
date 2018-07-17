@@ -226,7 +226,3 @@ Metti a punto un piano che ti aiuti a gestire la comunicazione della tua amminis
 .. admonition:: POTRESTI
  
    Individuare le situazioni di critiche che potresti trovarti a gestire rispetto al funzionamento dei servizi digitali offerti dalla      tua amministrazione in modo da identificare modalità di comunicazione e tipologia di messaggi da diffondere.
-   
-.. discourse::
-   :topic_identifier: 3416
-
