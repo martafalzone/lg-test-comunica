@@ -1,7 +1,7 @@
 Introduzione alle Linee Guida per la Promozione dei Servizi Digitali 
 ====================================================================
 
-L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo e coordinamento dei percorsi di crescita digitale della PA, crea, aggiorna e stimola la diffusione **Linee Guida per la Promozione dei Servizi Digitali** che possano sostenere le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire la conoscenza e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
+L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo e coordinamento dei percorsi di crescita digitale della PA, crea, aggiorna e stimola la diffusione di **Linee Guida per la Promozione dei Servizi Digitali** che possano sostenere le pubbliche amministrazioni nella definizione di strategie di comunicazione, marketing e racconto sempre più rispondenti alla necessità di favorire la conoscenza e l’utilizzo dei servizi digitali da parte di cittadini e imprese.
 
 Le Linee Guida per la Promozione dei Servizi Digitali si compongono di tre aree tematiche:
 
@@ -9,9 +9,9 @@ Le Linee Guida per la Promozione dei Servizi Digitali si compongono di tre aree 
 - Marketing 
 - Storytelling
 
-La prima area tematica, in consultazione, definisce il perimetro all’interno del quale si svilupperanno le diverse parti del progetto, le altre due sezioni verranno pubblicate al termine della consultazione in modo da poter approfondire in maniera dettagliata  aspetti che in questa prima release vengono solo accennati.
+La prima area tematica definisce il perimetro all’interno del quale si svilupperanno le diverse parti del progetto, le altre due sezioni verranno pubblicate a seguire in modo da poter approfondire in maniera dettagliata  aspetti che in questa prima release vengono solo accennati.
 
-Siamo consapevoli che solo adottando un’ottica di miglioramento continuo e collaborazione possiamo rendere le LG efficaci e utili per il maggior numero di persone. 
+Siamo consapevoli che solo adottando un’ottica di miglioramento continuo e collaborazione possiamo rendere le LG efficaci, utili e pratiche per il maggior numero di persone e applicabili nei contesti della PA più differenti.
 
 Una prima roadmap dei lavori verrà rilasciata a conclusione della consultazione pubblica. 
 
