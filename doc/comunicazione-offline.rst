@@ -8,7 +8,10 @@ I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella p
 
 .. admonition:: DEVI
 
-   Organizzare un momento di confronto con i giornalisti prima di lanciare un nuovo servizio. Realizza un kit per la stampa che sintetizzi    le caratteristiche del servizio e tutte le informazioni che desideri condividere con i cittadini. Utilizza contenuti diversificati        (testi, immagini, video, grafiche, infografiche, ecc.) per agevolare il lavoro dei giornalisti nel raccontare il servizio.
+   Organizzare un momento di confronto con i giornalisti prima di lanciare un nuovo servizio. Realizza un kit per la stampa che
+   sintetizzi    le caratteristiche del servizio e tutte le informazioni che desideri condividere con i cittadini. Utilizza contenuti
+   diversificati (testi, immagini, video, grafiche, infografiche, ecc.) per agevolare il lavoro dei giornalisti nel raccontare il
+   servizio.
 
 .. admonition:: DOVRESTI
 
@@ -24,7 +27,7 @@ I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella p
 La comunicazione diretta: URP, canali fisici ed eventi sul territorio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-La comunicazione attraverso canali fisici rappresenta un punto di incontro fondamentale per avvicinare i cittadini e le imprese alla pubblica amministrazione, sia in fase di lancio sia in fase di aggiornamento o miglioramento di un servizio. Anche il piccolo Comune con le sue peculiarità può diventare portavoce di un cambiamento che ha ricadute immediate e benefici sul territorio.
+La comunicazione attraverso canali fisici rappresenta un punto di incontro fondamentale per avvicinare i cittadini e le imprese alla pubblica amministrazione, sia in fase di lancio sia in fase di aggiornamento o miglioramento di un servizio.
 
 Sono diverse le modalità con le quali puoi raggiungere i tuoi interlocutori.
 
@@ -47,7 +50,7 @@ Spesso, è il primo punto di contatto tra  amministrazione e cittadini, luogo in
 
    Organizzare workshop e attività di formazione. Potresti prevedere momenti di approfondimento periodico con i cittadini in luoghi
    pubblici selezionati (ad esempio scuole, centri anziani ect.) per coinvolgerli e per raccontare loro come si sta trasformando la PA a
-   servizio del cittadino
+   servizio del cittadino.
 
 Gli eventi
 ^^^^^^^^^^
@@ -77,6 +80,4 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
 .. admonition:: POTRESTI
  
    Coinvolgere dei media partner o degli influencer che ti supportino nella diffusione ampliandone la portata.
-   
-   
 
