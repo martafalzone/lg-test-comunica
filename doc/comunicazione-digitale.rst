@@ -282,5 +282,3 @@ Utilizza, invece, Telegram per creare canali dedicati a uno o più servizi, nei 
    Creare un mix di contenuti informativi e creativi, per stimolare l’interesse dell’utente.
    Utilizza le liste broadcast per inviare la tua comunicazione in modalità personalizzata (e non massiva), ricordandoti di indicare        nella privacy policy del tuo sito le specifiche sul trattamento dei dati personali.
    
-.. discourse::
-   :topic_identifier: 3414 
