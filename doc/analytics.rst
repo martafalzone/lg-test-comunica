@@ -8,7 +8,7 @@ Puoi trovare questi dati negli “Insight” su Facebook e negli “Analytics”
 
 .. admonition:: DEVI
 
-   Monitorare con continuità i dati delle pagine social per capire come indirizzare la programmazione. Condividere i risultati numerici con    il gruppo di lavoro per attuare azioni correttive, coerenti con la strategia di comunicazione complessiva. 
+   Monitorare con continuità i dati delle pagine social per capire come indirizzare la programmazione. Condividere i risultati numerici    con il gruppo di lavoro per attuare azioni correttive, coerenti con la strategia di comunicazione complessiva. 
 
 .. admonition:: DOVRESTI
 
@@ -16,8 +16,5 @@ Puoi trovare questi dati negli “Insight” su Facebook e negli “Analytics”
 
 .. admonition:: POTRESTI
 
-   Usare i dati raccolti per raccontare il tuo servizio, invogliando gli utenti a sentirsi parte di una comunità.
-   
-.. discourse::
-   :topic_identifier: 3406
+   Usare i dati raccolti per raccontare il tuo servizio, invogliando gli utenti a sentirsi parte di una comunità. Condividere i            risultati delle tue strategie in formato aperto come fonte utile anche alle altre amministrazioni per ridefinire la strategia di        comunicazione.
    
