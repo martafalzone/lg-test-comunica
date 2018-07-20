@@ -7,7 +7,7 @@ Anche per l’informazione di servizio il cittadino “mette sul podio” i cana
  
    - Prevedere una strategia di comunicazione digitale del servizio che sia coerente con la strategia e la comunicazione integrata            dell’ente e  in linea con gli altri canali di comunicazione.
  
-   - Prevedere un piano e un calendario editoriale per pianificare i contenuti per la promozione dei tuoi servizi digitali. Il piano          editoriale riflette la strategia e gli obiettivi di comunicazione e deve essere integrato con gli altri strumenti e canali di            comunicazione. Il calendario ti aiuta a pianificare i cicli di promozione, le tempistiche, la tipologia di messaggio sulla base di      scadenze, ricorrenze, eventi tuoi o terzi, stagionalità del servizio digitale (ad es: l’iscrizione scolastica, il pagamento della        mensa etc).
+   - Prevedere un piano e un calendario editoriale per pianificare i contenuti per la promozione dei tuoi servizi digitali. Il piano          editoriale riflette la strategia e gli obiettivi di comunicazione e deve essere integrato con gli altri strumenti e canali di          comunicazione. Il calendario ti aiuta a pianificare i cicli di promozione, le tempistiche, la tipologia di messaggio sulla base di      scadenze, ricorrenze, eventi tuoi o terzi, stagionalità del servizio digitale (ad es: l’iscrizione scolastica, il pagamento della      mensa etc).
 
 .. admonition:: DOVRESTI
 
@@ -21,7 +21,7 @@ Anche per l’informazione di servizio il cittadino “mette sul podio” i cana
 Il sito web istituzionale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale    per presentare le tue attività e al tempo stesso il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online. Ricordati di organizzare i contenuti in modo chiaro, semplice e trasparente.
+Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale    per presentare le tue attività e al tempo stesso il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online.
 
 Ricordati di:
 
@@ -99,8 +99,7 @@ Grazie a questo strumento, la tua amministrazione può organizzare in maniera mi
 
 .. admonition:: DEVI
 
-   Fare molta attenzione al trattamento dei dati personali e aggiornarlo con le disposizioni del General Data Protection Regulation-        Regolamento UE 2016/679. (Ricorda che in assenza della privacy policy tutta una serie di iniziative di comunicazione digitale non
-   possono essere veicolate!)
+   Fare molta attenzione al trattamento dei dati personali e aggiornarlo con le disposizioni del General Data Protection Regulation-        Regolamento UE 2016/679. 
 
 .. admonition:: DOVRESTI
 
@@ -122,7 +121,7 @@ Aumenta l’interazione e la partecipazione dei tuoi utenti sul tuo canale socia
 
 Ricorda che non tutti i social seguono le stesse logiche e dinamiche. Scegli tra Facebook, Twitter, Instagram, LinkedIN, Youtube in base al messaggio che vuoi diffondere e al target di riferimento.
 
-Definisci sempre una strategia per i social media che sia coerente con gli obiettivi di comunicazione della tua campagna, che possa indirizzare al meglio le attività di promozione e che non vada in contrasto con le finalità istituzionali della tua amministrazione. 
+Definisci sempre una strategia per i social media che sia coerente con gli obiettivi di comunicazione della tua campagna, che possa indirizzare al meglio le attività di promozione e che non vada in contrasto con le finalità istituzionali. 
 
 .. admonition:: DEVI
 
@@ -190,9 +189,10 @@ Quando crei un tweet per promuovere i tuoi servizi ricordati di:
 
 .. admonition:: DEVI
 
-   - Crea un hashtag che identifichi il servizio in maniera univoca (ad esempio #tarionline #scuolafacile), è ancora meglio se è già        stato utilizzato da un’altra amministrazione per un servizio simile e associalo, se ritieni, ad hashtag di tendenza. 
+   - Crea un hashtag che identifichi il servizio in maniera univoca (ad esempio #tarionline #scuolafacile), è ancora meglio se è già          stato utilizzato da un’altra amministrazione per un servizio simile e associalo, se ritieni, ad hashtag di tendenza. 
 
-   - Creare lista di mention/influencer/media da utilizzare per amplificare la diffusione della notizia o analizzare le attività che ti      aiuteranno a promuovere il tuo servizio nei trend di interesse (ad esempio interagire con un influencer ti aiuta a far conoscere il      servizio in una conversazione trending topic. Usa sempre  menzioni pertinenti.
+   - Creare lista di mention/influencer/media da utilizzare per amplificare la diffusione della notizia o analizzare le attività che ti      aiuteranno a promuovere il tuo servizio nei trend di interesse (ad esempio interagire con un influencer ti aiuta a far conoscere
+     il servizio in una conversazione trending topic). Usa sempre  menzioni pertinenti.
 
 .. admonition:: DOVRESTI
 
