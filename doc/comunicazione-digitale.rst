@@ -99,7 +99,8 @@ Grazie a questo strumento, la tua amministrazione può organizzare in maniera mi
 
 .. admonition:: DEVI
 
-   Fare molta attenzione al trattamento dei dati personali e aggiornarlo con le disposizioni del General Data Protection Regulation-        Regolamento UE 2016/679.
+   Fare molta attenzione al trattamento dei dati personali e aggiornarlo con le disposizioni del General Data Protection Regulation-        Regolamento UE 2016/679. (Ricorda che in assenza della privacy policy tutta una serie di iniziative di comunicazione digitale non
+   possono essere veicolate!)
 
 .. admonition:: DOVRESTI
 
