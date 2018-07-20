@@ -12,8 +12,7 @@ Linee Guida per la Promozione dei Servizi Digitali
    :maxdepth: 3
 
    doc/intro_linee-guida
-   doc/intro_consultazione
-
+   
 |
 
 .. toctree::
