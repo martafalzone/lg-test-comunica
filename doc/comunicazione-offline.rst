@@ -22,7 +22,7 @@ I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella p
 La comunicazione diretta: URP, canali fisici ed eventi sul territorio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-La comunicazione attraverso canali fisici rappresenta un punto di incontro fondamentale per avvicinare i cittadini e le imprese alla pubblica amministrazione, sia in fase di lancio sia in fase di aggiornamento o miglioramento di un servizio.
+La comunicazione attraverso canali fisici rappresenta un punto di incontro fondamentale per avvicinare i cittadini e le imprese alla pubblica amministrazione, sia in fase di lancio sia in fase di aggiornamento o miglioramento di un servizio. Anche il piccolo Comune con le sue peculiarità può diventare portavoce di un cambiamento che ha ricadute immediate e benefici sul territorio.
 
 Sono diverse le modalità con le quali puoi raggiungere i tuoi interlocutori.
 
@@ -34,7 +34,8 @@ Spesso, è il primo punto di contatto tra  amministrazione e cittadini, luogo in
 
 .. admonition:: DEVI
    
-   Mettere a disposizione degli sportelli al cittadino materiale informativo e promozionale.
+   Promuovere la realizzazione di locandine e materiale divulgativo da lasciare a disposizione dei cittadini presso i Comuni di
+   riferimento con infografiche esaustive su come i servizi digitali possono semplificare la vita quotidiana.
 
 .. admonition:: DOVRESTI
 
