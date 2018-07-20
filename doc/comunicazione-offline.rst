@@ -16,7 +16,9 @@ I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella p
 
 .. admonition:: POTRESTI
 
-   Utilizzare al meglio tutti i canali digitali in possesso dell’amministrazione: sito, DEM, newsletter, social media anche per mantenere    aperto il dialogo con i giornalisti rispetto alle novità relative allo sviluppo dei servizi digitali della tua amministrazione. 
+   Utilizzare al meglio tutti i canali digitali in possesso dell’amministrazione: sito, DEM, newsletter, social media anche per
+   mantenere    aperto il dialogo con i giornalisti rispetto alle novità relative allo sviluppo dei servizi digitali della tua
+   amministrazione. 
 
 
 La comunicazione diretta: URP, canali fisici ed eventi sul territorio
@@ -43,7 +45,9 @@ Spesso, è il primo punto di contatto tra  amministrazione e cittadini, luogo in
 
 .. admonition:: POTRESTI
 
-   Organizzare workshop e attività di formazione. Potresti coinvolgere organizzazioni, associazioni e altri soggetti che possano aiutare    i cittadini - anche operativamente - a comprendere al meglio l’utilizzo dei servizi digitali.
+   Organizzare workshop e attività di formazione. Potresti prevedere momenti di approfondimento periodico con i cittadini in luoghi
+   pubblici selezionati (ad esempio scuole, centri anziani ect.) per coinvolgerli e per raccontare loro come si sta trasformando la PA a
+   servizio del cittadino
 
 Gli eventi
 ^^^^^^^^^^
@@ -74,7 +78,5 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
  
    Coinvolgere dei media partner o degli influencer che ti supportino nella diffusione ampliandone la portata.
    
-.. discourse::
-   :topic_identifier: 3415 
    
 
