@@ -41,7 +41,7 @@ Ricordati di:
 
 .. admonition:: DOVRESTI
 
-   - Scrivere i testi ottimizzandoli per i motori di ricerca (vedi linee guida AgID SEO).
+   - Scrivere i testi ottimizzandoli per i motori di ricerca (vedi linee guida di Design per i servizi digitali - SEO).
 
    - Definire obiettivi di conversione, cioè obiettivi strategici e mirati di risposta diretta per ottenere il massimo ritorno                sull'investimento (ROI).
 
