@@ -51,8 +51,7 @@ guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da
 
 .. admonition:: DEVI
 
-   - Comprendere i bisogni degli utenti: questa attività ti permetterà di soddisfare i bisogni ancora inesplorati del cittadino/impresa
-   e aggiungere valore alla tua comunicazione.
+   - Comprendere i bisogni degli utenti: questa attività ti permetterà di soddisfare i bisogni ancora inesplorati del cittadino/impresa      e aggiungere valore alla tua comunicazione.
 
    - Confrontarti subito con chi ha sviluppato il servizio per avere informazioni complete ed entrare davvero nel progetto. Capisci          chi è coinvolto e con quale ruolo, informati da subito sugli sviluppi futuri.
 
