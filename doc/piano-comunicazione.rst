@@ -196,7 +196,7 @@ Questi alcuni dei messaggi che non puoi fare a meno di declinare nella tua comun
 Come è andata? Misura l’efficacia delle tue attività di comunicazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-E' fondamentale fare un’analisi dei risultati che ottieni nel corso di ogni fase. Misura sempre la tua comunicazione: hai diverse possibilità a disposizione in base agli strumenti che utilizzi.
+È fondamentale fare un’analisi dei risultati che ottieni nel corso di ogni fase. Misura sempre la tua comunicazione: hai diverse possibilità a disposizione in base agli strumenti che utilizzi.
 
 .. admonition:: DEVI
  
