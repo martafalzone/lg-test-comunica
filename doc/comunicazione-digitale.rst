@@ -5,7 +5,7 @@ Anche per l’informazione di servizio il cittadino “mette sul podio” i cana
 
 .. admonition:: DEVI
  
-   - Prevedere una strategia di comunicazione digitale del servizio che sia coerente con la strategia e la comunicazione integrata dell’ente e  in linea con gli altri canali di comunicazione.
+   - Prevedere una strategia di comunicazione digitale del servizio che sia coerente con la strategia e la comunicazione integrata dell’ente e in linea con gli altri canali di comunicazione.
  
    - Prevedere un piano e un calendario editoriale per pianificare i contenuti per la promozione dei tuoi servizi digitali. Il piano editoriale riflette la strategia e gli obiettivi di comunicazione e deve essere integrato con gli altri strumenti e canali di comunicazione. Il calendario ti aiuta a pianificare i cicli di promozione, le tempistiche, la tipologia di messaggio sulla base di scadenze, ricorrenze, eventi tuoi o terzi, stagionalità del servizio digitale (ad es: l’iscrizione scolastica, il pagamento della mensa etc).
 
@@ -35,21 +35,21 @@ Ricordati di:
  
    - Aggiornare sempre il sito con le notizie sui servizi, soprattutto nella fase di lancio di uno nuovo e della sua campagna di comunicazione. Aggiungi contenuti multimediali come foto o infografiche che supportino e rafforzino la narrazione;
  
-   - Descrivere in maniera chiara ed esauriente i servizi inserendo tutte le informazioni necessarie per potervi accedere e ricevere          assistenza, in modo da accompagnare l’utente in ogni fase di utilizzo del servizio stesso;
+   - Descrivere in maniera chiara ed esauriente i servizi inserendo tutte le informazioni necessarie per potervi accedere e ricevere assistenza, in modo da accompagnare l’utente in ogni fase di utilizzo del servizio stesso;
  
-   - Prevedere degli approfondimenti per spiegare ai cittadini e ai media i processi più complessi attraverso, ad esempio, l’utilizzo        delle FAQ (domande frequenti con risposte preimpostate). 
+   - Prevedere degli approfondimenti per spiegare ai cittadini e ai media i processi più complessi attraverso, ad esempio, l’utilizzo delle FAQ (domande frequenti con risposte preimpostate). 
 
 .. admonition:: DOVRESTI
 
    - Scrivere i testi ottimizzandoli per i motori di ricerca (vedi linee guida di Design per i servizi digitali - SEO).
 
-   - Definire obiettivi di conversione, cioè obiettivi strategici e mirati di risposta diretta per ottenere il massimo ritorno                sull'investimento (ROI).
+   - Definire obiettivi di conversione, cioè obiettivi strategici e mirati di risposta diretta per ottenere il massimo ritorno sull'investimento (ROI).
 
 .. admonition:: POTRESTI
 
-   Associare al sito istituzionale un canale parallelo di racconto e approfondimento - come ad esempio un canale Medium - che ti            consente di:
-   - informare e aggiornare su iniziative e progetti che supportano l’attuazione dei servizi e sugli adempimenti degli obblighi              normativi nazionali e internazionali; 
-   - spiegare in maniera informale e attraverso una narrazione coinvolgente, come funzionano processi complessi e che impatto hanno sui       cittadini.
+   Associare al sito istituzionale un canale parallelo di racconto e approfondimento - come ad esempio un canale Medium - che ti consente di:
+   - informare e aggiornare su iniziative e progetti che supportano l’attuazione dei servizi e sugli adempimenti degli obblighi normativi nazionali e internazionali; 
+   - spiegare in maniera informale e attraverso una narrazione coinvolgente, come funzionano processi complessi e che impatto hanno sui cittadini.
 
 
 Oltre il sito c’è di più. Gli altri strumenti online.
@@ -107,9 +107,9 @@ Grazie a questo strumento, la tua amministrazione può organizzare in maniera mi
 
 .. admonition:: POTRESTI
 
-   - Associare alle notizie dell’amministrazione anche notizie di fonti terze (da giornali, eventi o approfondimenti) che possano            rendere più completa l’informazione sul tuo servizio. 
+   - Associare alle notizie dell’amministrazione anche notizie di fonti terze (da giornali, eventi o approfondimenti) che possano rendere più completa l’informazione sul tuo servizio. 
 
-   - Associare all’invio periodico della newsletter l’apertura di un canale Telegram come ulteriore canale di diffusione delle                informazioni più operative relative alla promozione dei tuoi servizi (ad es scadenze di pagamento).
+   - Associare all’invio periodico della newsletter l’apertura di un canale Telegram come ulteriore canale di diffusione delle informazioni più operative relative alla promozione dei tuoi servizi (ad es scadenze di pagamento).
 
 
 I social media
@@ -157,8 +157,7 @@ Per promuovere un servizio e per stimolare la conversazione sulle sue caratteris
 
    - Costruire una linea narrativa interamente dedicata alla promozione dei servizi sulla tua pagina istituzionale. 
 
-   - Monitorare la pagina Facebook e ascoltare le richieste di informazioni e i commenti dei cittadini interagendo attivamente.
-     Pensare ad un contenuto visual (card, video, anteprima) creativo per la promozione del servizio ed associarlo a dei contenuti testuali semplici e accattivanti.
+   - Monitorare la pagina Facebook e ascoltare le richieste di informazioni e i commenti dei cittadini interagendo attivamente. Pensare ad un contenuto visual (card, video, anteprima) creativo per la promozione del servizio ed associarlo a dei contenuti testuali semplici e accattivanti.
 
 .. admonition:: DOVRESTI
 
@@ -191,7 +190,7 @@ Quando crei un tweet per promuovere i tuoi servizi ricordati di:
 
    - Crea un hashtag che identifichi il servizio in maniera univoca (ad esempio #tarionline #scuolafacile), è ancora meglio se è già stato utilizzato da un’altra amministrazione per un servizio simile e associalo, se ritieni, ad hashtag di tendenza. 
 
-   - Creare lista di mention/influencer/media da utilizzare per amplificare la diffusione della notizia o analizzare le attività che ti aiuteranno a promuovere il tuo servizio nei trend di interesse (ad esempio interagire con un influencer ti aiuta a far conoscere il servizio in una conversazione trending topic). Usa sempre  menzioni pertinenti.
+   - Creare lista di mention/influencer/media da utilizzare per amplificare la diffusione della notizia o analizzare le attività che ti aiuteranno a promuovere il tuo servizio nei trend di interesse (ad esempio interagire con un influencer ti aiuta a far conoscere il servizio in una conversazione trending topic). Usa sempre menzioni pertinenti.
 
 .. admonition:: DOVRESTI
 
@@ -242,7 +241,7 @@ LinkedIN ti consente di promuovere il tuo servizio nelle community professionali
 YouTube
 ********
 
-Pensa a YouTube come un motore di ricerca: è qui che sempre più spesso i cittadini attingono informazioni pratiche sul “come fare per”, ad esempio come fare per fruire di un servizio. Puoi usare YouTube come repository dei tuoi tutorial, dei video promozionali o come canale, insieme a Facebook, per le dirette degli  eventi.
+Pensa a YouTube come un motore di ricerca: è qui che sempre più spesso i cittadini attingono informazioni pratiche sul “come fare per”, ad esempio come fare per fruire di un servizio. Puoi usare YouTube come repository dei tuoi tutorial, dei video promozionali o come canale, insieme a Facebook, per le dirette degli eventi.
 
 .. admonition:: DEVI
 
@@ -270,7 +269,7 @@ Utilizza, invece, Telegram per creare canali dedicati a uno o più servizi, nei 
 
 .. admonition:: DEVI
 
-   Creare un messaggio sintetico ma completo adatto agli strumenti che vuoi utilizzare (Whatsapp, Telegram) al fine di promuovere un servizio. Puoi sfruttare anche delle card grafiche promozionali  in sostituzione del messaggio.
+   Creare un messaggio sintetico ma completo adatto agli strumenti che vuoi utilizzare (Whatsapp, Telegram) al fine di promuovere un servizio. Puoi sfruttare anche delle card grafiche promozionali in sostituzione del messaggio.
 
 .. admonition:: DOVRESTI
 
