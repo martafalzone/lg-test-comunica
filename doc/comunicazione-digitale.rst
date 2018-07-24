@@ -87,7 +87,7 @@ La landing page contiene una descrizione chiara e accattivante delle caratterist
 
 .. admonition:: POTRESTI
 
-   Prevedere una sezione dedicata al materiale promozionale (press kit, infografiche)
+   Prevedere una sezione dedicata al materiale promozionale (press kit, infografiche).
 
 
 La Newsletter 
@@ -95,7 +95,7 @@ La Newsletter
 
 Migliora il rapporto con i tuoi cittadini adottando soluzioni di Citizen Relationship Management (CRM). Con l’iscrizione alla newsletter, il cittadino sceglie di far entrare la tua amministrazione nella mailbox personale per ricevere notizie, informazioni e dati utili su temi di suo interesse. 
 
-Grazie a questo strumento, la tua amministrazione può organizzare in maniera mirata le comunicazioni e gli aggiornamenti e innescare un ingaggio diretto per la promozione dei  servizi..
+Grazie a questo strumento, la tua amministrazione può organizzare in maniera mirata le comunicazioni e gli aggiornamenti e innescare un ingaggio diretto per la promozione dei  servizi.
 
 .. admonition:: DEVI
 
