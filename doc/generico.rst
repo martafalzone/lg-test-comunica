@@ -181,7 +181,7 @@ Questi alcuni dei messaggi che non puoi fare a meno di declinare nella tua comun
 
 .. admonition:: DEVI
 
-Scegliere uno stile informativo ma coinvolgente, avendo sempre in mente il target del servizio che stai comunicando. Usa sempre un linguaggio chiaro e diretto che metta a fuoco i vantaggi del tuo servizio. 
+   Scegliere uno stile informativo ma coinvolgente, avendo sempre in mente il target del servizio che stai comunicando. Usa sempre un      linguaggio chiaro e diretto che metta a fuoco i vantaggi del tuo servizio. 
 
 .. admonition:: DEVI
 
@@ -194,7 +194,6 @@ Scegliere uno stile informativo ma coinvolgente, avendo sempre in mente il targe
 .. admonition:: DOVRESTI
 
    Coinvolgere il tuo interlocutore: essere creativo, persuasivo, ironico e autoironico. Ci sono tanti modi e tante possibilità per        raccontare novità, vantaggi e qualche volta anche disagi temporanei che possono derivare dalla trasformazione digitale dei servizi. 
- 
 
 .. admonition:: POTRESTI
  
@@ -248,15 +247,15 @@ I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella p
 
 .. admonition:: DEVI
 
-   Organizzare un momento di confronto con i giornalisti prima di lanciare un nuovo servizio. Realizza un kit per la stampa che sintetizzi    le caratteristiche del servizio e tutte le informazioni che desideri condividere con i cittadini. Utilizza contenuti diversificati        (testi, immagini, video, grafiche, infografiche, ecc.) per agevolare il lavoro dei giornalisti nel raccontare il servizio.
+   Organizzare un momento di confronto con i giornalisti prima di lanciare un nuovo servizio. Realizza un kit per la stampa che            sintetizzi le caratteristiche del servizio e tutte le informazioni che desideri condividere con i cittadini. Utilizza contenuti          diversificati (testi, immagini, video, grafiche, infografiche, ecc.) per agevolare il lavoro dei giornalisti nel raccontare il          servizio.
 
 .. admonition:: DOVRESTI
 
-   Assicurarti che l’ufficio stampa curi le relazioni con i giornalisti e i media tradizionali senza trascurare quelle con blogger,          influencers e opinion leader di settore. 
+   Assicurarti che l’ufficio stampa curi le relazioni con i giornalisti e i media tradizionali senza trascurare quelle con blogger,        influencers e opinion leader di settore. 
 
 .. admonition:: POTRESTI
 
-   Utilizzare al meglio tutti i canali digitali in possesso dell’amministrazione: sito, DEM, newsletter, social media anche per mantenere    aperto il dialogo con i giornalisti rispetto alle novità relative allo sviluppo dei servizi digitali della tua amministrazione. 
+   Utilizzare al meglio tutti i canali digitali in possesso dell’amministrazione: sito, DEM, newsletter, social media anche per            mantenere aperto il dialogo con i giornalisti rispetto alle novità relative allo sviluppo dei servizi digitali della tua                amministrazione. 
 
 
 La comunicazione diretta: URP, canali fisici ed eventi sul territorio.
