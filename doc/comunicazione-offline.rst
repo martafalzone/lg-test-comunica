@@ -9,19 +9,18 @@ I mezzi di informazione, locali e nazionali, hanno un ruolo fondamentale nella p
 .. admonition:: DEVI
 
    Organizzare un momento di confronto con i giornalisti prima di lanciare un nuovo servizio. Realizza un kit per la stampa che
-   sintetizzi    le caratteristiche del servizio e tutte le informazioni che desideri condividere con i cittadini. Utilizza contenuti
+   sintetizzi le caratteristiche del servizio e tutte le informazioni che desideri condividere con i cittadini. Utilizza contenuti
    diversificati (testi, immagini, video, grafiche, infografiche, ecc.) per agevolare il lavoro dei giornalisti nel raccontare il
    servizio.
 
 .. admonition:: DOVRESTI
 
-   Assicurarti che l’ufficio stampa curi le relazioni con i giornalisti e i media tradizionali senza trascurare quelle con blogger,          influencers e opinion leader di settore. 
+   Assicurarti che l’ufficio stampa curi le relazioni con i giornalisti e i media tradizionali senza trascurare quelle con blogger,        influencers e opinion leader di settore. 
 
 .. admonition:: POTRESTI
 
    Utilizzare al meglio tutti i canali digitali in possesso dell’amministrazione: sito, DEM, newsletter, social media anche per
-   mantenere    aperto il dialogo con i giornalisti rispetto alle novità relative allo sviluppo dei servizi digitali della tua
-   amministrazione. 
+   mantenere aperto il dialogo con i giornalisti rispetto alle novità relative allo sviluppo dei servizi digitali della tua                amministrazione. 
 
 
 La comunicazione diretta: URP, canali fisici ed eventi sul territorio
@@ -65,7 +64,7 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
 
 - definisci i contenuti degli interventi - che devono essere coerenti e fluidi - e metti a disposizione i materiali anche dopo l’evento;
 
-- pianifica la comunicazione dell’evento, identificando destinatari e canali, e costruendo contenuti chiari, diretti e coinvolgenti in tutte le sue fasi (prima, durante e dopo).
+- pianifica la comunicazione dell’evento, identificando destinatari e canali, e costruendo contenuti chiari, diretti e coinvolgenti in     tutte le sue fasi (prima, durante e dopo).
 
 .. admonition:: DEVI
  
