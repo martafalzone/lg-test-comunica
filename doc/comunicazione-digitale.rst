@@ -261,7 +261,7 @@ Pensa a YouTube come un motore di ricerca: è qui che sempre più spesso i citta
 Le App di messaggistica istantanea (Whatsapp e Telegram)
 *********************************************************
 
-Grazie a strumenti come le app di messaggistica hai a disposizione uno strumento diretto per raggiungere il cittadino nel “luoghi” di conversazione quotidiana sul suo smartphone, diffondendo così le informazioni in modo semplice ed istantaneo.  Anytime, anywhere.
+Grazie a strumenti come le app di messaggistica hai a disposizione uno strumento diretto per raggiungere il cittadino nei “luoghi” di conversazione quotidiana sul suo smartphone, diffondendo così le informazioni in modo semplice ed istantaneo. Anytime, anywhere.
 
 Ricordati di promuovere le app che decidi di utilizzare all’interno della tua strategia di comunicazione e di informare i cittadini sul trattamento dei dati personali previsto nella privacy policy della tua amministrazione.
 
