@@ -46,8 +46,7 @@ Dove ti trovi? Analizza e confronta il contesto e il servizio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dedica del tempo all’analisi del servizio che offri al cittadino o alle imprese e ai vantaggi che comporta. Devi capire tu per primo le caratteristiche del servizio - anche quelle tecniche - per poterlo comunicare al meglio. Fai come faresti con un’auto da comprare: valuta gli aspetti positivi da valorizzare e tieni presente quelli critici.
-È probabile che qualcuno prima di te si sia trovato a lanciare un servizio uguale o simile:
-guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da altre amministrazioni e prendi spunto (valgono sia le esperienze positive che quelle negative!).
+È probabile che qualcuno prima di te si sia trovato a lanciare un servizio uguale o simile: guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da altre amministrazioni e prendi spunto (valgono sia le esperienze positive che quelle negative!).
 
 .. admonition:: DEVI
 
@@ -63,7 +62,7 @@ guarda cosa è stato fatto, confronta la tua esperienza con quella realizzata da
 
 .. admonition:: POTRESTI
 
-   Analizzare e misurare la risposta del cittadino rispetto al servizio offerto: comprensione, utilizzo e soddisfazione. Puoi legare        l’ascolto del target alle attività di monitoraggio per migliorare o modificare la tua strategia in modo da capire immediatamente se    nascono nuove evidenze.  
+   Analizzare e misurare la risposta del cittadino rispetto al servizio offerto: comprensione, utilizzo e soddisfazione. Puoi legare        l’ascolto del target alle attività di monitoraggio per migliorare o modificare la tua strategia in modo da capire immediatamente se      nascono nuove evidenze.  
 
 
 Cosa vuoi ottenere? Definisci gli obiettivi di comunicazione
@@ -94,7 +93,8 @@ Più  saranno chiari i tuoi obiettivi, più facile sarà raggiungerli adattandos
 
 .. admonition:: POTRESTI
 
-   Evidenziare i progressi fatti dalla tua amministrazione grazie alla transizione al digitale e fare così    brand awareness.              Migliorerai la percezione della PA da parte di cittadini e opinione pubblica. Ricordati di non far prevalere questa    attività sulla    comunicazione di servizio al cittadino.
+   Evidenziare i progressi fatti dalla tua amministrazione grazie alla transizione al digitale e fare così brand awareness.  
+   Migliorerai la percezione della PA da parte di cittadini e opinione pubblica. Ricordati di non far prevalere questa attività sulla      comunicazione di servizio al cittadino.
 
 
 A chi vuoi parlare? Analizza i destinatari della tua azione di comunicazione
