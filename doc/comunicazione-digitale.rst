@@ -7,7 +7,7 @@ Anche per l’informazione di servizio il cittadino “mette sul podio” i cana
  
    - Prevedere una strategia di comunicazione digitale del servizio che sia coerente con la strategia e la comunicazione integrata            dell’ente e  in linea con gli altri canali di comunicazione.
  
-   - Prevedere un piano e un calendario editoriale per pianificare i contenuti per la promozione dei tuoi servizi digitali. Il piano          editoriale riflette la strategia e gli obiettivi di comunicazione e deve essere integrato con gli altri strumenti e canali di          comunicazione. Il calendario ti aiuta a pianificare i cicli di promozione, le tempistiche, la tipologia di messaggio sulla base di      scadenze, ricorrenze, eventi tuoi o terzi, stagionalità del servizio digitale (ad es: l’iscrizione scolastica, il pagamento della      mensa etc).
+   - Prevedere un piano e un calendario editoriale per pianificare i contenuti per la promozione dei tuoi servizi digitali. Il piano          editoriale riflette la strategia e gli obiettivi di comunicazione e deve essere integrato con gli altri strumenti e canali di            comunicazione. Il calendario ti aiuta a pianificare i cicli di promozione, le tempistiche, la tipologia di messaggio sulla base di      scadenze, ricorrenze, eventi tuoi o terzi, stagionalità del servizio digitale (ad es: l’iscrizione scolastica, il pagamento della        mensa etc).
 
 .. admonition:: DOVRESTI
 
