@@ -69,7 +69,7 @@ Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e 
 
 .. admonition:: DEVI
  
-   Scegliere il luogo in base al target e agli obiettivi che ti sei dato in modo da favorire la più ampia partecipazione. Ricorda che il    cuore dell’evento deve essere la sperimentazione del servizio (anche se in fase di test)
+   Scegliere il luogo in base al target e agli obiettivi che ti sei dato in modo da favorire la più ampia partecipazione. Ricorda che il    cuore dell’evento deve essere la sperimentazione del servizio (anche se in fase di test).
 
 .. admonition:: DOVRESTI
 
