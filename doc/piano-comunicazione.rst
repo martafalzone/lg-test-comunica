@@ -54,7 +54,7 @@ Dedica del tempo all’analisi del servizio che offri al cittadino o alle impres
 
    - Confrontarti subito con chi ha sviluppato il servizio per avere informazioni complete ed entrare davvero nel progetto. Capisci chi è coinvolto e con quale ruolo, informati da subito sugli sviluppi futuri.
 
-   - Capire perchè nasce il servizio, a quali bisogni del target risponde, qual è la cornice strategica (nazionale e locale) all’interno della quale si contestualizza.
+   - Capire perché nasce il servizio, a quali bisogni del target risponde, qual è la cornice strategica (nazionale e locale) all’interno della quale si contestualizza.
 
 .. admonition:: DOVRESTI
 
