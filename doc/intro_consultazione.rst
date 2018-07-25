@@ -25,4 +25,4 @@ Arricchire il perimetro di indicazioni suggerimenti e proposte, redatte in modal
 
 **Come partecipare**
 
-Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/t/definizione-della-categoria-linee-guida-promozione-servizi-digitali/3402>`_ Forum Italia fino al 23 giugno 2018.
+Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/t/definizione-della-categoria-linee-guida-promozione-servizi-digitali/3402>`_ fino al 23 giugno 2018.
