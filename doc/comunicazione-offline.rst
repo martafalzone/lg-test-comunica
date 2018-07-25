@@ -47,7 +47,7 @@ Spesso, è il primo punto di contatto tra amministrazione e cittadini, luogo in 
 Gli eventi
 ^^^^^^^^^^
 
-Gli eventi rappresentano una grande opportunità per favorire l’inclusione del cittadino, sopratutto se c’è un nuovo servizio da presentare.
+Gli eventi rappresentano una grande opportunità per favorire l’inclusione del cittadino, soprattutto se c’è un nuovo servizio da presentare.
 
 Alcuni consigli per realizzare un evento efficace qualsiasi sia la dimensione e la portata:
 
