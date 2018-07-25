@@ -21,7 +21,7 @@ Anche per l’informazione di servizio il cittadino “mette sul podio” i cana
 Il sito web istituzionale
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo il canale per presentare le tue attività e al tempo stesso il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online.
+Il sito istituzionale è la porta di accesso principale per entrare in contatto con la tua organizzazione. È spesso il primo canale per presentare le tue attività e al tempo stesso il mezzo utilizzato dai cittadini per scoprire e accedere ai tuoi servizi online.
 
 Ricordati di:
 
