@@ -21,7 +21,7 @@ Addetti alla comunicazione, addetti ufficio stampa, social media specialist e PR
 
 **Obiettivo della consultazione**
 
-Arricchire il perimetro di indicazioni suggerimenti e proposte, redatte in modalità collaborativa, da mettere a disposizione degli uffici comunicazione delle amministrazioni per fornire supporto alle attività di informazione, comunicazione e marketing finalizzate alla promozione dei servizi  digitali.
+Arricchire il perimetro di indicazioni, suggerimenti e proposte, redatte in modalità collaborativa, da mettere a disposizione degli uffici comunicazione delle amministrazioni per fornire supporto alle attività di informazione, comunicazione e marketing finalizzate alla promozione dei servizi  digitali.
 
 **Come partecipare**
 
