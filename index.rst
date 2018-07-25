@@ -3,22 +3,15 @@ Linee Guida per la Promozione dei Servizi Digitali
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
    
-   La consultazione pubblica per questo documento è attiva dal **24** **maggio** al **23** **giugno** **2018**.
-   Questo documento raccoglie il testo delle **Linee guida per la Promozione dei Servizi Digitali**, disponibile per
-   la consultazione pubblica.
-
+   Questo documento raccoglie il testo delle **Linee guida per la Promozione dei Servizi Digitali**.
+   Si è conclusa il 23 giugno 2018 la consultazione per la sezione relativa alla **comunicazione per la promozione dei servizi digitali**.
+   Saranno a breve disponibili per la consultazione pubblica le **Linee guida di Storytelling** e le **Linee guida di Marketing**.
+   
+ 
 
 .. toctree::
    :maxdepth: 3
 
    doc/intro_linee-guida
-   doc/intro_consultazione
-
-|
-
-.. toctree::
-   :maxdepth: 3
-   :caption: Documento in consultazione
-        
    doc/promozione-servizi-digitali
    doc/glossario
