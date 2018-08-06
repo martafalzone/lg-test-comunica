@@ -3,9 +3,9 @@
 
 **Informazioni sulla consultazione**
 
+- **Documento:** `Lo storytelling dei servizi digitali <storytelling.html>`_
 
 - **Durata della consultazione:** dal 6 agosto al 7 settembre 2018
-
 
 - **Settore:** ICT
 
