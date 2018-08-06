@@ -23,3 +23,6 @@ consentono di essere riconosciute e ricordate.
 Non dimenticare che questa tecnica serve per rafforzare **fiducia con il
 cittadino**, la non autenticità dei tuoi racconti può compromettere il
 rapporto che stai costruendo con i tuoi lettori.
+
+.. discourse::
+   :topic_identifier: 4194

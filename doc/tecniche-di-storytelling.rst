@@ -324,3 +324,6 @@ storia.
 .. admonition:: POTRESTI
 
    Coinvolgere i dipendenti o i cittadini come storyteller per raccontare pezzi della loro storia che valorizzino ancora di più il tuo racconto.
+
+.. discourse::
+   :topic_identifier: 4192
