@@ -16,7 +16,7 @@ I risultati della consultazione pubblica on line saranno presi in considerazione
 
 **Destinatari**
 
-Addetti alla comunicazione, addetti ufficio stampa, social media specialist e PR di pubbliche amministrazioni centrali e locali. Più in generale tutti i professionisti del settore comunicazione impegnati in attività di promozione dei servizi digitali.
+Addetti alla comunicazione, addetti ufficio stampa, social media specialist e PR di pubbliche amministrazioni centrali e locali. Più in generale i professionisti del settore comunicazione impegnati in attività di promozione dei servizi digitali e tutti gli interessati.
 
 **Obiettivo della consultazione**
 
