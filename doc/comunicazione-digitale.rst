@@ -27,9 +27,13 @@ Ricordati di:
 
 - organizzare i contenuti in modo chiaro, semplice e trasparente. Il sito è fondamentale per informare l’utente e descrivere attività e servizi, promuovere le novità a essi collegate con notizie, focus, infografiche, materiali di approfondimento;
 
-- trovare sempre un equilibrio tra uno stile di comunicazione che catturi l’attenzione del lettore e gli approfondimenti sulle caratteristiche e delle funzionalità dei servizi.
+- trovare sempre un equilibrio tra uno stile di comunicazione che catturi l’attenzione del lettore e gli approfondimenti sulle caratteristiche e delle funzionalità dei servizi;
 
-- prevedere con la "`privacy policy <https://comunica-lg.readthedocs.io/it/latest/doc/comunicazione-digitale.html#il-sito-web-istituzionale>`_" le modalità di gestione del sito in riferimento al trattamento dei dati personali degli utenti visitatori che lo consultano, di richiamarla nella tua "Social Media Policy" e di aggiungere (nella SMP) come verranno richiesti e trattati i dati personali degli utenti che useranno i tuoi canali di promozione (ad es: iscritti alla newsletter, che usano Whatsapp e Telegram).
+- prevedere con la "`privacy policy <https://comunica-lg.readthedocs.io/it/latest/doc/comunicazione-digitale.html#il-sito-web-istituzionale>`_" le modalità di gestione del sito in riferimento al trattamento dei dati personali degli utenti visitatori che lo consultano, di richiamarla nella tua "Social Media Policy" e di aggiungere (nella SMP) come verranno richiesti e trattati i dati personali degli utenti che useranno i tuoi canali di promozione (ad es: iscritti alla newsletter, che usano Whatsapp e Telegram);
+
+- prevedere con le note legali le condizioni di utilizzo del sito, dei servizi e dei contenuti multimediali pubblicati (ad esempio le licenze d’uso delle immagini);
+
+- rendere disponibile le policy e le note legali nel footer del tuo sito.
 
 .. admonition:: DEVI
  
@@ -97,9 +101,15 @@ Migliora il rapporto con i tuoi cittadini adottando soluzioni di Citizen Relatio
 
 Grazie a questo strumento, la tua amministrazione può organizzare in maniera mirata le comunicazioni e gli aggiornamenti e innescare un ingaggio diretto per la promozione dei servizi.
 
+Ricorda che è molto importante curare le liste di invio. Assicurati di:
+
+-	inviare la newsletter soltanto agli utenti che ne abbiano fatto esplicita richiesta;
+
+-	inserire nella pagina web del tuo sito/servizio (in calce al form di iscrizione alla newsletter) così come in calce ad ogni email, la possibilità di iscriversi o disiscriversi.
+
 .. admonition:: DEVI
 
-   Fare molta attenzione al trattamento dei dati personali e aggiornarlo con le disposizioni del General Data Protection Regulation-Regolamento UE 2016/679. 
+   Fare molta attenzione al trattamento dei dati personali e aggiornarlo con le disposizioni del General Data Protection Regulation-Regolamento UE 2016/679. Ricorda che il rispetto delle norme sulla privacy condiziona la correttezza delle tue attività di comunicazione digitale. Prima di inviare la newsletter, accertati di produrre un'informativa dedicata ai tuoi utenti, in cui andranno indicati i tempi di conservazione, i soggetti che tratteranno i dati e i diritti che possono essere esercitati dall'interessato.
 
 .. admonition:: DOVRESTI
 
@@ -123,6 +133,8 @@ Ricorda che non tutti i social seguono le stesse logiche e dinamiche. Scegli tra
 
 Definisci sempre una strategia per i social media che sia coerente con gli obiettivi di comunicazione della tua campagna, che possa indirizzare al meglio le attività di promozione e che non vada in contrasto con le finalità istituzionali. 
 
+Ricordati sempre di adottare una social media policy (interna ed esterna), che contenga indicazioni su come saranno trattate le informazioni degli utenti nel rispetto del Reg. UE 2016/679, sulle regole di moderazione e le informazioni sulle licenze relative ai contenuti e al materiale multimediale presente sui tuoi social. 
+
 .. admonition:: DEVI
 
    Utilizzare uno stile di comunicazione chiaro, semplice e diretto. 
@@ -133,6 +145,8 @@ Definisci sempre una strategia per i social media che sia coerente con gli obiet
    - Organizzare dirette social e/o video interviste per presentare le novità del servizio o focalizzarti su degli approfondimenti. 
 
    - Avviare dialogo e interazione utilizzando i social anche come strumento di customer care. Rispondere ai commenti e ai messaggi privati sia su Facebook che su Twitter (ricordati di concordare le risposte di natura tecnica con referenti del servizio) in modo da interagire in maniera tempestiva con le richieste degli utenti e superare lo stereotipo dell’autoreferenzialità dell’amministrazione.
+   
+   - Prestare attenzione al rispetto della normativa in materia di protezione dei dati personali e rispettare il diritto d’autore di terzi.
 
 .. admonition:: POTRESTI
 
