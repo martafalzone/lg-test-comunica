@@ -231,7 +231,7 @@ Sparklines
 
 | È una struttura in cui il contenuto è sviluppato “come le cose sono
   realmente” e “come dovrebbero essere”.
-| E’ molto utile per raccontare il servizio dal punto di vista del
+| È molto utile per raccontare il servizio dal punto di vista del
   cittadino, enfatizzando gli sforzi che l’organizzazione compie per
   soddisfarlo (ad esempio migliorando prodotti e/o processi).
 
