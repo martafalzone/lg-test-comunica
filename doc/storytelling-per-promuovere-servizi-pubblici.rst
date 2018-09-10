@@ -1,7 +1,7 @@
 ﻿Lo storytelling per promuovere i servizi pubblici
 -------------------------------------------------
 
-Hai capito come e perchè può aiutarti lo storytelling?
+Hai capito come e perché può aiutarti lo storytelling?
 Inizia a raccontare storie per far emergere l’impatto positivo che i
 servizi digitali hanno sulla vita quotidiana dei cittadini!
 
