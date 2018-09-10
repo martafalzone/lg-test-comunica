@@ -7,8 +7,7 @@ Le Linee guida sullo storytelling nascono per guidare i professionisti della com
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
 
-   Le linee guida sono in consultazione dal 6 agosto al 7 settembre 2018. Per partecipare leggi le 
-   `Istruzioni per la consultazione pubblica <introduzione-consultazione.html>`_.
+   La consultazione è terminata il 7 settembre 2018.
 
 .. toctree::
    :maxdepth: 2
