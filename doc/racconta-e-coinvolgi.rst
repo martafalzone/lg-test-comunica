@@ -22,6 +22,7 @@ consentono di essere riconosciute e ricordate.
 
 Prima di cimentarti con lo storytelling, ricorda di individuare le categorie destinatarie del servizio e dello storytelling.
 Avere un’idea chiara delle necessità delle persone che utilizzano i servizi che promuovi e racconti è fondamentale per costruire strategia efficace. 
+
 Scopri gli strumenti e le tecniche che facilitano la comprensione degli utenti nel paragrafo `"Conoscere gli utenti" <https://design-italia.readthedocs.io/it/stable/doc/service-design/gestione-dei-progetti.html#conoscere-gli-utenti>`_ delle  linee guida di design dei servizi.
 
 Non dimenticare che questa tecnica serve per rafforzare **fiducia con il
