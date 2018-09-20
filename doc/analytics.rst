@@ -1,4 +1,4 @@
-Analytics e Social Insights
+Analytics, Listening e Social Insights
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Una lettura sistematica dei dati di Web analytics ti consente di capire quante persone sono interessate al tuo servizio (leggono le notizie o gli approfondimenti che proponi) e ti consentono di programmare l’avvio di azioni correttive o migliorative sulla promozione dei servizi digitali (vedi le `Linee guida di design <http://design-italia.readthedocs.io/it/stable/doc/user-research/web-analytics.html>`_ ).
