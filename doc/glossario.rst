@@ -147,7 +147,7 @@ Glossario
 
    Netiquette:
       insieme di regole e buone pratiche che disciplinano il comportamento di un utente Internet nel rapportarsi agli altri utenti
-      all’interno di ambienti web o social, come ad esempio forum, blog, social, mailing list, forum, app di messaggistica.
+      all’interno di ambienti web o social, come ad esempio forum, blog, social, mailing list, app di messaggistica.
 
 .. glossary::
 
