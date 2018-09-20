@@ -9,7 +9,7 @@ Le Linee Guida per la Promozione dei Servizi Digitali si compongono di tre aree 
 - Marketing 
 - `Storytelling <https://comunica-lg.readthedocs.io/it/latest/doc/storytelling.html>`_ 
 
-La prima area tematica definisce il perimetro all’interno del quale si svilupperanno le diverse parti del progetto, le altre due sezioni verranno pubblicate a seguire in modo da poter approfondire in maniera dettagliata  aspetti che in questa prima release vengono solo accennati.
+Le prime tre aree tematiche definiscono il perimetro all’interno del quale si svilupperanno le linee guida di promozione, successive sezioni verranno pubblicate a seguire in modo da poter approfondire in maniera dettagliata aspetti che in questa prima release vengono solo accennati.
 
 Siamo consapevoli che solo adottando un’ottica di miglioramento continuo e collaborazione possiamo rendere le LG efficaci, utili e pratiche per il maggior numero di persone e applicabili nei contesti della PA più differenti.
 
