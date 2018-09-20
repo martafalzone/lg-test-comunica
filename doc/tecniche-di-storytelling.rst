@@ -1,4 +1,4 @@
-﻿Le Tecniche di storytelling
+﻿Le tecniche di storytelling
 ---------------------------
 
 Per costruire racconti avvincenti e coinvolgenti puoi utilizzare diversi
