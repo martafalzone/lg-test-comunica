@@ -6,8 +6,6 @@ Linee Guida per la Promozione dei Servizi Digitali
    Questo documento raccoglie il testo delle **Linee guida per la Promozione dei Servizi Digitali**.
 
    Saranno a breve disponibili per la consultazione pubblica le **Linee guida di Marketing**.
-   
-   Si sono concluse le consultazioni sulle linee guida di **comunicazione per la promozione dei servizi digitali** e di **storytelling dei servizi digitali** rispettivamente il 23 giugno 2018 e il 7 settembre 2018.
 
    
 
