@@ -16,7 +16,6 @@ Linee Guida per la Promozione dei Servizi Digitali
 
    doc/intro_linee-guida
    doc/promozione-servizi-digitali
-   doc/introduzione-consultazione.rst
    doc/storytelling.rst
    doc/analytics.rst
    doc/glossario.rst
