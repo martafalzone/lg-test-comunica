@@ -122,6 +122,3 @@ video che siano fonte di informazione e coinvolgimento.
 
    Arricchire il racconto portando anche il punto di vista dei cittadini con interviste, brevi video, o con la tecnica della redazione allargata (lasciando che il cittadino racconti attraverso il tuo canale ufficiale la sua esperienza con un nuovo servizio che ha provato ad utilizzare).
 
-
-.. discourse::
-   :topic_identifier: 4191

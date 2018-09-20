@@ -67,7 +67,3 @@ spesso è il registro narrativo a fare la differenza!
 
    Colmare eventuali lacune o vuoti informativi inserendo particolari nuovi nel tuo racconto.
 
-
-.. discourse::
-   :topic_identifier: 4193
-
