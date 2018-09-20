@@ -14,6 +14,7 @@ una `landing page <comunicazione-digitale.html#siti-tematici-o-landing-page>`_, 
 creando “un’esperienza informativa” completa per l’utente sul
 prodotto/servizio o iniziativa della tua amministrazione.
 
+Non tutti gli utenti fruiscono dei social allo stesso modo: scegli le modalità più semplici ed efficaci per raggiungere i tuoi interlocutori.
 Ricorda che il lettore online cerca velocemente le informazioni di cui
 ha bisogno, `organizzale in modo funzionale <https://design-italia.readthedocs.io/it/stable/doc/content-design/linguaggio.html>`_ e non dimenticare di aggiornare periodicamente le tue
 storie con nuovi i contenuti!
