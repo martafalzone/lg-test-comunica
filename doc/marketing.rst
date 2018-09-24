@@ -8,3 +8,9 @@ digitali. Utilizzare un approccio di di marketing per favorire la
 diffusione dei servizi digitali della PA, ti permetterà di diffondere
 informazioni e competenze che miglioreranno la vita di tutti i
 cittadini.
+
+
+.. toctree::
+   :maxdepth: 2
+   
+   
