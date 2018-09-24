@@ -12,8 +12,9 @@ Linee Guida per la Promozione dei Servizi Digitali
 .. toctree::
    :maxdepth: 3
 
-   doc/intro_linee-guida
-   doc/promozione-servizi-digitali
+   doc/intro_linee-guida.rst
+   doc/marketing.rst
+   doc/promozione-servizi-digitali.rst
    doc/storytelling.rst
    doc/analytics.rst
    doc/glossario.rst
