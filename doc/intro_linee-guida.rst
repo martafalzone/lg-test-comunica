@@ -5,8 +5,8 @@ L’Agenzia per l’Italia Digitale, nel perseguire la sua funzione di indirizzo
 
 Le Linee Guida per la Promozione dei Servizi Digitali si compongono di tre aree tematiche:
 
-- `Comunicazione <https://comunica-lg.readthedocs.io/it/latest/doc/promozione-servizi-digitali.html>`_ 
 - Marketing 
+- `Comunicazione <https://comunica-lg.readthedocs.io/it/latest/doc/promozione-servizi-digitali.html>`_ 
 - `Storytelling <https://comunica-lg.readthedocs.io/it/latest/doc/storytelling.html>`_ 
 
 Le prime tre aree tematiche definiscono il perimetro all’interno del quale si svilupperanno le linee guida di promozione, successive sezioni verranno pubblicate a seguire in modo da poter approfondire in maniera dettagliata aspetti che in questa prima release vengono solo accennati.
