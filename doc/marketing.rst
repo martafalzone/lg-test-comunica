@@ -14,3 +14,5 @@ cittadini.
    :maxdepth: 2
    
    pa-marketing-oriented.rst
+   marketing-mix.rst
+   strumenti-per-marketing.rst
