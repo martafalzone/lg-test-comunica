@@ -52,6 +52,10 @@ Glossario
  
    Citizen/Customer Relationship Management (CRM):
       l’insieme degli strumenti e delle procedure per la gestione dei rapporti con il cliente.
+      
+.. glossary::      
+      
+   conversational marketing:
     
 .. glossary::
 
@@ -86,6 +90,10 @@ Glossario
 
    Engagement: 
       grado di coinvolgimento che un determinato contenuto suscita negli utenti. 
+      
+.. glossary::      
+      
+   Face to face:
 
 .. glossary::
 
@@ -115,6 +123,12 @@ Glossario
 
    Liste broadcast: 
       funzionalità che consente di spedire messaggi a diversi contatti contemporaneamente. 
+      
+.. glossary::
+
+   Marketing intelligence:
+      
+   
 
 .. glossary::
 
