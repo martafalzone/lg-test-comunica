@@ -66,7 +66,7 @@ potrai trovare diversi partner limitrofi.
 .. admonition:: DEVI
 
    - Individuare il partner giusto e pianificare insieme gli obiettivi, l’oggetto delle azioni i ruoli nell’iniziativa di co-marketing.
-   - Creare un piano d’azioni condiviso che stabilisca in maniera precisa chi fa cosa, come.
+   - Creare un piano d’azioni condiviso che stabilisca in maniera precisa chi fa cosa e come.
 
 .. admonition:: DOVRESTI
 
