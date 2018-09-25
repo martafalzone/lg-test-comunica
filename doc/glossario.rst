@@ -56,6 +56,7 @@ Glossario
 .. glossary::      
       
    conversational marketing:
+      tecniche di continuo ascolto dell'utente attraverso un dialogo bidirezionale con l'obiettivo di ricevere un feedback costante           da parte dei cittadini.
     
 .. glossary::
 
@@ -94,7 +95,8 @@ Glossario
 .. glossary::      
       
    Face to face:
-
+      tutte le attività di marketing che richiedono un contatto diretto con l'utente finale (incontri, eventi)
+      
 .. glossary::
 
    Hashtag: 
@@ -127,9 +129,8 @@ Glossario
 .. glossary::
 
    Marketing intelligence:
-      
+      studi condotti per studiare il target che si vuole colpire prima di intraprendere una determinata azione. In questa analisi             rientrano età, abitudini, contesto sociale, etc.      
    
-
 .. glossary::
 
    Media mix: 
