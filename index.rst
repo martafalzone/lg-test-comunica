@@ -5,7 +5,7 @@ Linee Guida per la Promozione dei Servizi Digitali
    
    Questo documento raccoglie il testo delle **Linee guida per la Promozione dei Servizi Digitali**.
 
-   Saranno a breve disponibili per la consultazione pubblica le **Linee guida di Marketing**.
+   Sono disponibili per la consultazione pubblica le Linee guida relative al **Il Marketing per la promozione dei servizi pubblici            digitali**
 
    
 
