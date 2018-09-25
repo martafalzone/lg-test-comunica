@@ -11,7 +11,7 @@ cittadini.
 
 .. admonition:: **CONSULTAZIONE PUBBLICA**
 
-   La consultazione pubblica per il documento **"Il Marketing per la promozione dei servizi pubblici digitali"** è attiva dal **26**            **settembre** al **27** **ottobre** **2018**.
+   La consultazione pubblica per il documento **Il Marketing per la promozione dei servizi pubblici digitali** è attiva dal **26**            **settembre** al **27** **ottobre** **2018**.
 
 
 .. toctree::
