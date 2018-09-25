@@ -116,7 +116,7 @@ territorio.
 
 .. admonition:: DOVRESTI
 
-   Tenere a mente che coinvolgerai persone che hanno una vita, un’opinione, un pubblico e che queste peculiarità non sono in “vendita”. In venditac’è il loro tempo e i loro contenuti ma non le loro opinioni.
+   Fare in modo che l’influencer scelto abbia sempre la possibilità di avere un contatto diretto con gli  interlocutori della tua campagna in modo da poter commentare i contenuti che verranno generati, rendendo la comunicazione partecipativa, condivisa e inclusiva.
 
 
 Il Social Advertising
