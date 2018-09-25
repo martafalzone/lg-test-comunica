@@ -3,9 +3,9 @@
 
 **Informazioni sulla consultazione**
 
-- **Documento:** `Lo storytelling dei servizi digitali <storytelling.html>`_
+- **Documento:** Il Marketing per la promozione dei servizi pubblici digitali
 
-- **Durata della consultazione:** dal 6 agosto al 7 settembre 2018
+- **Durata della consultazione:** dal 26 settembre al 27 ottobre 2018
 
 - **Settore:** ICT
 
@@ -24,4 +24,4 @@ Arricchire il perimetro di indicazioni, suggerimenti e proposte, redatte in moda
 
 **Come partecipare**
 
-Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su `Forum Italia <https://forum.italia.it/t/definizione-della-categoria-linee-guida-promozione-servizi-digitali/3402>`_ fino al 7 settembre 2018.
+Le Linee Guida sulla Promozione dei Servizi Digitali sono pubblicate su Docs Italia ed è possibile commentarle su Forum Italia fino al 27 ottobre 2018.
