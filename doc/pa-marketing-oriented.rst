@@ -69,7 +69,7 @@ Dove ti trovi? Esplora la realtà che ti circonda.
 
 Analizza l’ambiente e il contesto. Per individuare come cominciare a
 promuovere i tuoi servizi digitali è importante avere un’idea di quali
-sono gli elementi che influiscono sull’utilizzo del da parte dei
+sono gli elementi che influiscono sull’utilizzo del servizio da parte dei
 cittadini.
 
 Valuta gli elementi esterni, le sfide e le opportunità che nascono
@@ -82,7 +82,7 @@ Valuta gli elementi esterni, le sfide e le opportunità che nascono
 
 .. admonition:: DOVRESTI
 
-   Confrontare la tua esperienza con casi di successo di altre amministrazioni che erogano servizi simili ma anche di soggetti diversi dall’ amministrazione pubblica. Pensaci, puoi confrontare il tuo servizio anche con quello che viene erogato da un privato, potresti provare spunti molto interessanti!
+   Confrontare la tua esperienza con casi di successo di altre amministrazioni che erogano servizi simili, ma anche di soggetti diversi dall’ amministrazione pubblica. Pensaci, puoi confrontare il tuo servizio anche con quello che viene erogato da un privato. Potresti trovare spunti molto interessanti!
 
 .. admonition:: POTRESTI
 
@@ -107,7 +107,7 @@ I tuoi obiettivi dovranno essere:
 
 .. admonition:: DEVI
 
-   Misurare gli obiettivi dal punto di vista quantitativo e qualitativo, per monitorarne l’andamento nel tempo. Ad esempio puoi decidere di rivolgerti in una prima fase solo ad un certo tipo di target e capire che tipo di risposta ottieni.
+   Misurare gli obiettivi dal punto di vista quantitativo e qualitativo per monitorarne l’andamento nel tempo. Ad esempio puoi decidere di rivolgerti in una prima fase solo ad un certo tipo di target e capire che tipo di risposta ottieni.
 
 .. admonition:: DOVRESTI
 
@@ -120,7 +120,7 @@ I tuoi obiettivi dovranno essere:
 A chi vuoi parlare? Identifica il tuo target
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Traccia un profilo ideale del tuo target: non solo dati anagrafici, ma
+Traccia un profilo ideale del tuo target. Non solo dati anagrafici, ma
 anche dati allo stile di vita: ad esempio l’uso della tecnologia e
 variabili contingenti che possono influire sulla fruizione del servizio
 digitale. Ricorda che, quando si parla di servizi pubblici, il cittadino
@@ -158,7 +158,7 @@ permette di definire strategie personalizzate di marketing dei servizi.
 
 .. admonition:: POTRESTI
 
-   Far ricorso ad indagini di mercato, di customer satisfaction per approfondire le caratteristiche dei tuoi utenti.
+   Far ricorso ad indagini di mercato o di customer satisfaction per approfondire le caratteristiche dei tuoi utenti.
 
 Quali sono le tue risorse? Definisci il budget (e pianifica i controlli)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -196,7 +196,7 @@ tenga presente che sono fondamentali:
    quello che può fare il marketing per la promozione dei tuoi servizi;
 
 -  il **sistema di monitoraggio:** che includa l'ascolto continuativo
-   come primo elemento continuativo della strategia.
+   come primo elemento della strategia.
 
 .. admonition:: DEVI
 
@@ -226,7 +226,7 @@ obiettivi che vuoi raggiungere sono sostenibili.
 
 .. admonition:: DOVRESTI
 
-   Utilizzare le informazioni raccolte per definire la capacità produttiva della tua organizzazione, e tarare quindi meglio gli biettivi di marketing e promozione dei tuoi servizi.
+   Utilizzare le informazioni raccolte per definire la capacità produttiva della tua organizzazione e tarare quindi meglio gli biettivi di marketing e promozione dei tuoi servizi.
 
 .. admonition:: POTRESTI
 
@@ -263,7 +263,7 @@ possano compromettere la tua relazione con lui.
 
 .. admonition:: DOVRESTI
 
-   Mixare i dati e le informazioni sia quelle che hai a disposizione sia quelle reperibili dai diversi canali utilizzati (digitali e non) per conoscere fino in fondo il comportamento degli utenti.
+   Mixare i dati e le informazioni, sia quelle che hai a disposizione sia quelle reperibili dai diversi canali utilizzati (digitali e non) per conoscere fino in fondo il comportamento degli utenti.
 
 .. admonition:: POTRESTI
 
