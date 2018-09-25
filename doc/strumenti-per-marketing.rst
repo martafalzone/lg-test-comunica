@@ -20,7 +20,7 @@ Il marketing dei big data e della business intelligence
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Lo scenario con cui andiamo a confrontarci quando operiamo in tutte le
-sfere attinenti alla comunicazione e al marketing, è l’esigenza sempre
+sfere attinenti alla comunicazione e al marketing è l’esigenza sempre
 più avvertita della raccolta di quante più informazioni possibili. In
 questo modo è possibile individuare in maniera corretta il tuo target e
 trasferirgli il messaggio di cui sei portatore. I dati sono la moneta
@@ -145,13 +145,13 @@ Conversational Marketing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Attiva conversazioni “one to one” in tempo reale con i tuoi cittadini
-attraverso le “chat”, gli sms, la messaggistica istantanea.
+attraverso le chat, gli sms, la messaggistica istantanea.
 
 Si tratta di un nuovo modo di creare connessioni tra PA e cittadini
 entrando nella loro vita quotidiana come qualsiasi amico o persona
 gradita che può fornirgli informazioni utili attraverso un semplice e
 veloce messaggio. Puoi ricordargli ad esempio che una scadenza
-particolare è alle porte, o avvisarlo della nascita di un nuovo
+particolare è alle porte o avvisarlo della nascita di un nuovo
 servizio.
 
 Gli strumenti che ha a disposizione la tua amministrazione sono diversi
@@ -162,7 +162,7 @@ potenzialità di Telegram e Whatsapp?
 
 Ricordati: non si tratta di sostituzione di interazioni umane, (il
 cittadino dopo il messaggio potrà cercare maggiori informazioni
-recandosi allo sportello, o cercando istruzioni e dettagli sul sito
+recandosi allo sportello o cercando istruzioni e dettagli sul sito
 internet dedicato).
 
 .. admonition:: DEVI
@@ -187,16 +187,14 @@ promozione dei tuoi servizi digitali.
 Non pensare solo alla newsletter, a un database o a un software per la
 gestione degli utenti: la relazione con il cittadino è ben più
 articolata. Dalle e-mail alla messaggistica istantanea, gli strumenti di
-CRM ti consentono di profilare i tuoi utenti, e di centrare in maniera
+CRM ti consentono di profilare i tuoi utenti e di centrare in maniera
 più precisa i loro interessi anche rispetto ai servizi che offri!
 
 .. admonition:: DEVI
 
-   Utilizzare le newsletter quando vuoi comunicare aggiornamenti e novità rispetto alla tua offerta di servizi.
+   - Utilizzare le newsletter quando vuoi comunicare aggiornamenti e novità rispetto alla tua offerta di servizi.
 
-Creare contenuti di Direct Email Marketing quando vuoi invitare gli
-utenti a compiere un’azione (richiedere un servizio, partecipare ad
-un’iniziativa, ecc.).
+   - Creare contenuti di Direct Email Marketing quando vuoi invitare gli utenti a compiere un’azione (richiedere un servizio, partecipare ad un’iniziativa, ecc.).
 
 .. admonition:: DOVRESTI
 
@@ -227,11 +225,11 @@ e farti trovare più facilmente.
 Attraverso queste tecniche puoi far si che:
 
 -  il sito della tua PA aumenti il numero delle visite tramite il
-   “traffico” generato naturalmente dai motori di ricerca più utilizzati
+   traffico generato naturalmente dai motori di ricerca più utilizzati
    (es: Google, Yahoo, Bing, ecc…);
 
 -  l’esperienza online con la tua PA digitale del cittadino/utente sia
-   la migliore possibile in modo che sia spinto a “tornare” a farti
+   la migliore possibile in modo che sia spinto a tornare a farti
    visita sul web tante altre volte e diventare da semplice conoscitore
    ad abituale fruitore dei servizi digitali.
 
