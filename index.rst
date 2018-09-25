@@ -13,6 +13,7 @@ Linee Guida per la Promozione dei Servizi Digitali
    :maxdepth: 3
 
    doc/intro_linee-guida.rst
+   doc/introduzione-consultazione.rst
    doc/marketing.rst
    doc/promozione-servizi-digitali.rst
    doc/storytelling.rst
