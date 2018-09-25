@@ -9,6 +9,10 @@ diffusione dei servizi digitali della PA, ti permetterà di diffondere
 informazioni e competenze che miglioreranno la vita di tutti i
 cittadini.
 
+.. admonition:: **CONSULTAZIONE PUBBLICA**
+
+   La consultazione pubblica per il documento "**Il Marketing per la promozione dei servizi pubblici digitali**" è attiva dal **26**          **settembre** al **27** **ottobre** **2018**.
+
 
 .. toctree::
    :maxdepth: 2
